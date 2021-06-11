@@ -1,6 +1,6 @@
 {
-  "name": "cra-template",
-  "version": "0.1.0",
+  "name": "cra-template-folpe",
+  "version": "1.0.0",
   "description": "Personal Create React App template with typescript and storybook.",
   "keywords": [
     "create-react-app",
