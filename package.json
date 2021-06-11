@@ -1,6 +1,6 @@
 {
   "name": "cra-template",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Personal Create React App template with typescript and storybook.",
   "keywords": [
     "create-react-app",
